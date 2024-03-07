@@ -1,0 +1,11 @@
+output
+mlruns
+
+.DS_Store
+.swp
+.vscode
+__MACOSX
+**/__pycache__
+
+model_weights.zip
+unet_oversample_low_final_model_for_paper
